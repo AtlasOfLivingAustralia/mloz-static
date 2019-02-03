@@ -1,10 +1,11 @@
 
 body {
-  background: url(../img/Jacky_Lizard_Kioloa_fullsize.jpeg) no-repeat;
+  background: url(../img/Jacky_Lizard_Kioloa_opacity20.jpeg) no-repeat;
   padding: 20px 5%;
   background-size: cover;
   color: white;
   background-color: #191e14;
+  font-size: 1.3rem;
   text-shadow: 2px 2px 6px #000;
 }
 .h1, h1 {
